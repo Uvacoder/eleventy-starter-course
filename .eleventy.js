@@ -34,6 +34,8 @@ module.exports = (config) => {
     });
   });
 
+  config.setUseGitIgnore(false);
+
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",
