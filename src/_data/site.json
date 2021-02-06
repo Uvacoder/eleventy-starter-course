@@ -1,5 +1,7 @@
 {
-  "title": "Issue 33",
+  "name": "Issue 33",
   "description": "This is the website of Issue 33, a website built with 11ty",
-  "url": "https://issue33-eleventy.netlify.app"
+  "url": "https://issue33-eleventy.netlify.app",
+  "authorName": "Issue 33",
+  "authorEmail": "hi@piccalil.li"
 }
